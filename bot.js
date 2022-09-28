@@ -10,7 +10,7 @@ client.on('ready', async () => {
  client.user.setActivity(`Free Ads Send Your Link Server`, { type:'WATCHING' })
 });
 
-//ZEROCODES//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+//City Of Minds//https://discord.gg/MRrStgspMv//City Of Minds//
 ////////
 
 client.on("messageCreate", (message) => {
@@ -73,7 +73,7 @@ if (message.content === "اعلان") {
 }
 
 });
-//ZEROCODES//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+//City Of Minds//https://discord.gg/MRrStgspMv//City Of Minds//
 //////////////
 client.on("messageCreate", async message => {
   if (message.channel.type === "dm") return;
@@ -87,7 +87,7 @@ client.on("messageCreate", async message => {
   }
 });
 
-//ZEROCODES//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+//City Of Minds//https://discord.gg/MRrStgspMv//City Of Minds//
 //////////////
 
 client.on('messageCreate',async (message) => {
@@ -121,7 +121,7 @@ client.on('messageCreate',async (message) => {
        return;
     }}
 })
-//ZEROCODES//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+//City Of Minds//https://discord.gg/MRrStgspMv//City Of Minds//
 
 
 
@@ -146,6 +146,6 @@ console.log(err)
 });
 
 
-//https://discord.gg/RMEQSbMtEk//ZEROCODES//
+//City Of Minds//https://discord.gg/RMEQSbMtEk//City Of Minds//
 
 client.login(token)
